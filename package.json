@@ -1,0 +1,23 @@
+{
+	"name": "wpvip",
+	"version": "1.0.0",
+	"description": "Setup WPVIP, convert normal wordpress to wpvip setup. ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"wpvip": "index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"fs": "^0.0.1-security",
+		"log-symbols": "^5.1.0",
+		"ora": "^7.0.1",
+		"replace-in-file": "^7.0.1",
+		"shelljs": "^0.8.5",
+		"yargs": "^17.7.2"
+	},
+	"type": "module"
+}
