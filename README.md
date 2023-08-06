@@ -22,6 +22,7 @@ Go to WordPress directory and run below command
 # - Cloning Repository
 # - Cloning VIP MU Plugins
 # - Updating wp-config.php file
- 
+
+# Warning: It will delete existing wp-content directory
 wpvip init GITHUB_REPO_URL
 ```
