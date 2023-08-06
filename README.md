@@ -14,6 +14,8 @@ git clone https://github.com/dishitpala/wpvip.git && cd wpvip && npm install && 
 
 ## Usage
 
+Go to WordPress directory and run below command
+
 ```bash
 wpvip init GITHUB_REPO_URL
 ```
